@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)](https://mohamedhajja.io)
+[![MasterHead](https://miro.medium.com/max/1400/1*U3WRRwLx3zeDkHmIVGLJdw.gif)](https://mohamedhajja.io)
 <h1 align="center">Hi 👋, I'm Mohamed HAJJA</h1>
 <h3 align="center">Data Science student at Faculty of Sciences Semlalia Marrakech</h3>
 <img align="right" alt="Coding" width="400" src="https://dist.neo4j.com/wp-content/uploads/20220112171158/data-science-3.gif">
