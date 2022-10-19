@@ -1,7 +1,10 @@
 [![MasterHead](https://arrayflaircom.files.wordpress.com/2021/06/bi-dashboard.gif)](https://mohamedhajja.io)
 <h1 align="center">Hi 👋, I'm Mohamed HAJJA</h1>
 <h3 align="center">Data Science student at Faculty of Sciences Semlalia Marrakech</h3>
-<img align="right" alt="Coding" width="400" src="https://dist.neo4j.com/wp-content/uploads/20220112171158/data-science-3.gif">
+<img  border-radius= 2px align="right" alt="Coding" width="400" src="https://dist.neo4j.com/wp-content/uploads/20220112171158/data-science-3.gif">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhajja&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhajja" /> </p>
 
